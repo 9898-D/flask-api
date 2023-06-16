@@ -3,3 +3,5 @@ Created API in Flask Which Extract Information from website
 
 # run program and pass the parameter /ASIN means unique product id which is provide by amazon
 -> /localhost:5000/B0BBN3WF7V
+
+-> You got 200 response and get json output of information
